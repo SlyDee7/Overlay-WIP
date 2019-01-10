@@ -1,0 +1,11 @@
+C:\Users\shall\source\repos\PsuTrainer\PsuTrainer\bin\Debug\PsuTrainer.exe.config
+C:\Users\shall\source\repos\PsuTrainer\PsuTrainer\bin\Debug\PsuTrainer.exe
+C:\Users\shall\source\repos\PsuTrainer\PsuTrainer\bin\Debug\PsuTrainer.pdb
+C:\Users\shall\source\repos\PsuTrainer\PsuTrainer\obj\Debug\PsuTrainer.csprojAssemblyReference.cache
+C:\Users\shall\source\repos\PsuTrainer\PsuTrainer\obj\Debug\PsuTrainer.Form1.resources
+C:\Users\shall\source\repos\PsuTrainer\PsuTrainer\obj\Debug\PsuTrainer.Properties.Resources.resources
+C:\Users\shall\source\repos\PsuTrainer\PsuTrainer\obj\Debug\PsuTrainer.csproj.GenerateResource.cache
+C:\Users\shall\source\repos\PsuTrainer\PsuTrainer\obj\Debug\PsuTrainer.csproj.CoreCompileInputs.cache
+C:\Users\shall\source\repos\PsuTrainer\PsuTrainer\obj\Debug\PsuTrainer.exe
+C:\Users\shall\source\repos\PsuTrainer\PsuTrainer\obj\Debug\PsuTrainer.pdb
+C:\Users\shall\source\repos\PsuTrainer\PsuTrainer\obj\Debug\PsuTrainer.Formoverlay.resources
